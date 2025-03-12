@@ -1,0 +1,14 @@
+C:\Users\IDEAPAD GAMING\Documents\vscode_projects\AhorcadosJuego\bin\Debug\net8.0\AhorcadosJuego.exe
+C:\Users\IDEAPAD GAMING\Documents\vscode_projects\AhorcadosJuego\bin\Debug\net8.0\AhorcadosJuego.deps.json
+C:\Users\IDEAPAD GAMING\Documents\vscode_projects\AhorcadosJuego\bin\Debug\net8.0\AhorcadosJuego.runtimeconfig.json
+C:\Users\IDEAPAD GAMING\Documents\vscode_projects\AhorcadosJuego\bin\Debug\net8.0\AhorcadosJuego.dll
+C:\Users\IDEAPAD GAMING\Documents\vscode_projects\AhorcadosJuego\bin\Debug\net8.0\AhorcadosJuego.pdb
+C:\Users\IDEAPAD GAMING\Documents\vscode_projects\AhorcadosJuego\obj\Debug\net8.0\AhorcadosJuego.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IDEAPAD GAMING\Documents\vscode_projects\AhorcadosJuego\obj\Debug\net8.0\AhorcadosJuego.AssemblyInfoInputs.cache
+C:\Users\IDEAPAD GAMING\Documents\vscode_projects\AhorcadosJuego\obj\Debug\net8.0\AhorcadosJuego.AssemblyInfo.cs
+C:\Users\IDEAPAD GAMING\Documents\vscode_projects\AhorcadosJuego\obj\Debug\net8.0\AhorcadosJuego.csproj.CoreCompileInputs.cache
+C:\Users\IDEAPAD GAMING\Documents\vscode_projects\AhorcadosJuego\obj\Debug\net8.0\AhorcadosJuego.dll
+C:\Users\IDEAPAD GAMING\Documents\vscode_projects\AhorcadosJuego\obj\Debug\net8.0\refint\AhorcadosJuego.dll
+C:\Users\IDEAPAD GAMING\Documents\vscode_projects\AhorcadosJuego\obj\Debug\net8.0\AhorcadosJuego.pdb
+C:\Users\IDEAPAD GAMING\Documents\vscode_projects\AhorcadosJuego\obj\Debug\net8.0\AhorcadosJuego.genruntimeconfig.cache
+C:\Users\IDEAPAD GAMING\Documents\vscode_projects\AhorcadosJuego\obj\Debug\net8.0\ref\AhorcadosJuego.dll
